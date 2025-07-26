@@ -4,31 +4,32 @@ This is the landing page for **KaarFix**, a service that provides hassle-free bu
 
 ## 🚀 Features
 
-- Mobile-friendly, clean design  
-- Single-page layout  
-- Custom content for KaarFix  
-- Easy to modify and deploy  
+- Mobile-friendly, clean design
+- Single-page layout
+- Custom content for KaarFix
+- Easy to modify and deploy
 
 ## 🛠️ Getting Started
 
 1. Clone the Repo  
    git clone https://github.com/your-username/kaarfix.git  
-   cd kaarfix  
+   cd kaarfix
 
 2. Install Dependencies  
    Make sure you have [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/) installed.  
-   yarn  
+   yarn
 
 3. Start Development Server  
-   yarn dev  
+   yarn dev
 
 The site will be available at http://localhost:3000
 
 ## 🌐 Deployment
 
-You can deploy this site easily using:  
-- Vercel: https://vercel.com/  
-- Netlify: https://netlify.com/  
+You can deploy this site easily using:
+
+- Vercel: https://vercel.com/
+- Netlify: https://netlify.com/
 - GitHub Pages
 
 ## 📄 License

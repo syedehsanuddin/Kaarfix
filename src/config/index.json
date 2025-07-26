@@ -27,125 +27,121 @@
     "href": "tel:+923483985864"
   },
   "mainHero": {
-  "title": "We fix,",
-  "subtitle": "without you leaving your car.",
-  "description": "KaarFix offers a smart, hassle-free bumper repair service in Karachi. We temporarily replace your damaged bumper, repair the original at our workshop, and return to reinstall it — saving you time, stress, and effort. Trusted service right at your doorstep.",
-  "img": "/assets/images/happyTeam.jpeg",
-  "primaryAction": {
-    "text": "Whatsap us",
-    "href": "https://wa.me/+923483985864"
+    "title": "We fix,",
+    "subtitle": "without you leaving your car.",
+    "description": "KaarFix offers a smart, hassle-free bumper repair service in Karachi. We temporarily replace your damaged bumper, repair the original at our workshop, and return to reinstall it — saving you time, stress, and effort. Trusted service right at your doorstep.",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Whatsap us",
+      "href": "https://wa.me/+923483985864"
+    },
+    "secondaryAction": {
+      "text": "Email Us",
+      "href": "mailto:syed.ahsan934@gmail.com"
+    }
   },
-  "secondaryAction": {
-    "text": "Email Us",
-    "href": "mailto:syed.ahsan934@gmail.com"
-  }
-},
   "product": {
-  "title": "How KaarFix Works",
-  "items": [
-    {
-      "title": "We Come to You",
-      "description": "No more workshop visits. Our team comes to your location, removes the damaged bumper, and installs a temporary one so you’re never stuck.",
-      "img": "/assets/images/product1.jpg"
-    },
-    {
-      "title": "Repair & Reinstall",
-      "description": "We take your bumper to our workshop for expert repair and painting. Once it’s ready, we come back and reinstall it on your car — like it was never damaged.",
-      "img": "/assets/images/product2.jpg"
-    }
-  ]
-}
-,
+    "title": "How KaarFix Works",
+    "items": [
+      {
+        "title": "We Come to You",
+        "description": "No more workshop visits. Our team comes to your location, removes the damaged bumper, and installs a temporary one so you’re never stuck.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Repair & Reinstall",
+        "description": "We take your bumper to our workshop for expert repair and painting. Once it’s ready, we come back and reinstall it on your car — like it was never damaged.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
   "features": {
-  "title": "Why Choose KaarFix?",
-  "subtitle": "Smart solutions for busy car owners",
-  "description": "We know your time is valuable. That’s why KaarFix brings a modern approach to car bumper repair — no queues, no workshop visits, just fast, professional service at your doorstep.",
-  "items": [
-    {
-      "name": "Doorstep Pickup & Install",
-      "description": "We remove your damaged bumper and install a temporary one — all at your home or office.",
-      "icon": "/assets/images/react.png"
-    },
-    {
-      "name": "Keep Driving with Ease",
-      "description": "No downtime. Use your car with our temporary bumper while the original is being repaired.",
-      "icon": "/assets/images/react.png"
-    },
-    {
-      "name": "Workshop-Quality Repairs",
-      "description": "We repair and repaint your bumper using professional tools for a like-new finish.",
-      "icon": "/assets/images/react.png"
-    },
-    {
-      "name": "Return & Reinstall",
-      "description": "Once your bumper is ready, we return and reinstall it — without you ever leaving home.",
-      "icon": "/assets/images/react.png"
-    }
-  ]
-}
-,
+    "title": "Why Choose KaarFix?",
+    "subtitle": "Smart solutions for busy car owners",
+    "description": "We know your time is valuable. That’s why KaarFix brings a modern approach to car bumper repair — no queues, no workshop visits, just fast, professional service at your doorstep.",
+    "items": [
+      {
+        "name": "Doorstep Pickup & Install",
+        "description": "We remove your damaged bumper and install a temporary one — all at your home or office.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Keep Driving with Ease",
+        "description": "No downtime. Use your car with our temporary bumper while the original is being repaired.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Workshop-Quality Repairs",
+        "description": "We repair and repaint your bumper using professional tools for a like-new finish.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Return & Reinstall",
+        "description": "Once your bumper is ready, we return and reinstall it — without you ever leaving home.",
+        "icon": "/assets/images/react.png"
+      }
+    ]
+  },
   "pricing": {
-  "title": "Our Packages",
-  "items": [
-    {
-      "name": "Basic",
-      "price": "PKR 3,500",
-      "priceDetails": "for minor scratches & dent repair",
-      "features": [
-        "Doorstep bumper removal",
-        "Scratch & dent repair",
-        "Basic paint touch-up",
-        "Reinstallation included"
-      ]
-    },
-    {
-      "name": "Standard",
-      "price": "PKR 5,500",
-      "priceDetails": "for moderate damage",
-      "features": [
-        "Temporary bumper included",
-        "Dent repair & repaint",
-        "Polish finish",
-        "Pickup & reinstallation service"
-      ]
-    },
-    {
-      "name": "Premium",
-      "price": "PKR 7,500+",
-      "priceDetails": "for heavy damage or full repaint",
-      "features": [
-        "Everything in Standard",
-        "Full bumper repaint",
-        "Color match guarantee",
-        "Priority scheduling"
-      ]
-    }
-  ]
-}
-,
+    "title": "Our Packages",
+    "items": [
+      {
+        "name": "Basic",
+        "price": "PKR 3,500",
+        "priceDetails": "for minor scratches & dent repair",
+        "features": [
+          "Doorstep bumper removal",
+          "Scratch & dent repair",
+          "Basic paint touch-up",
+          "Reinstallation included"
+        ]
+      },
+      {
+        "name": "Standard",
+        "price": "PKR 5,500",
+        "priceDetails": "for moderate damage",
+        "features": [
+          "Temporary bumper included",
+          "Dent repair & repaint",
+          "Polish finish",
+          "Pickup & reinstallation service"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "PKR 7,500+",
+        "priceDetails": "for heavy damage or full repaint",
+        "features": [
+          "Everything in Standard",
+          "Full bumper repaint",
+          "Color match guarantee",
+          "Priority scheduling"
+        ]
+      }
+    ]
+  },
   "about": {
-  "sections": [
-    {
-      "name": "No Workshops",
-      "href": "#",
-      "content": "At KaarFix, our goal is to simplify car repairs for busy people. We believe that car maintenance shouldn't be a hassle, which is why we bring professional bumper repair right to your doorstep."
-    },
-    {
-      "name": "Trusted Service",
-      "href": "#",
-      "content": "Our team visits your location, removes your damaged bumper, and installs a temporary one so you stay mobile. We then repair and repaint your bumper at our workshop and return to reinstall it — easy and stress-free."
-    },
-    {
-      "name": "Easy Repairs",
-      "href": "#",
-      "content": "We focus on middle-class car owners in Karachi who want convenience, trust, and quality without the workshop runaround. Whether you’re at home or at work, we come to you."
+    "sections": [
+      {
+        "name": "No Workshops",
+        "href": "#",
+        "content": "At KaarFix, our goal is to simplify car repairs for busy people. We believe that car maintenance shouldn't be a hassle, which is why we bring professional bumper repair right to your doorstep."
+      },
+      {
+        "name": "Trusted Service",
+        "href": "#",
+        "content": "Our team visits your location, removes your damaged bumper, and installs a temporary one so you stay mobile. We then repair and repaint your bumper at our workshop and return to reinstall it — easy and stress-free."
+      },
+      {
+        "name": "Easy Repairs",
+        "href": "#",
+        "content": "We focus on middle-class car owners in Karachi who want convenience, trust, and quality without the workshop runaround. Whether you’re at home or at work, we come to you."
+      }
+    ],
+    "socialMedia": {
+      "github": "",
+      "twitter": "https://www.instagram.com/kaarfix.pk",
+      "linkedin": "https://www.linkedin.com/kaarfix-pk"
     }
-  ],
-  "socialMedia": {
-    "github": "",
-    "twitter": "https://www.instagram.com/kaarfix.pk",
-    "linkedin": "https://www.linkedin.com/kaarfix-pk"
   }
-}
-
 }
